@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268509323713",
+    "project_id": "flutterproject-d5e9d",
+    "storage_bucket": "flutterproject-d5e9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268509323713:android:00a1fee8837e2a0ee4cf40",
+        "android_client_info": {
+          "package_name": "com.example.life_countdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotQzQbGhigG17l9d6vCRhvVt1wj80P24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

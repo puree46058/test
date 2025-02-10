@@ -1,0 +1,138 @@
+{
+  "@appTitle": {"comment": "คำในหน้า HOME"},
+  "appTitle": "ชีวิตที่เหลืออยู่",
+  "startButton": "เริ่มต้น",
+  "aboutUsButton": "เกี่ยวกับเรา",
+  "supportButton": "สนับสนุน",
+  "description": "โปรแกรมที่กระตุ้นให้เราตระหนักว่าเรามีเวลาในชีวิตจำกัดและควรเร่งทำสิ่งสำคัญก่อนเวลาจะหมดลง",
+  "languageEnglish": "ภาษาอังกฤษ",
+  "languageThai": "ภาษาไทย",
+
+
+
+
+  "@selectDateHeader": {"comment": "คำในหน้า Select Date"},
+  "appBarTitle": "กลับ",
+  "selectDateHeader": "เลือกวันที่",
+  "selectDateSubHeader": "คุณเกิดเมื่อไหร่?",
+  "yearLabel": "ปี",
+  "monthLabel": "เดือน",
+  "dayLabel": "วัน",
+  "nextButton": "ถัดไป",
+  "snackBarMessage": "วันที่ที่เลือก: {date}",
+  "january": "มกราคม",
+  "february": "กุมภาพันธ์",
+  "march": "มีนาคม",
+  "april": "เมษายน",
+  "may": "พฤษภาคม",
+  "june": "มิถุนายน",
+  "july": "กรกฎาคม",
+  "august": "สิงหาคม",
+  "september": "กันยายน",
+  "october": "ตุลาคม",
+  "november": "พฤศจิกายน",
+  "december": "ธันวาคม",
+
+
+  
+  "@nextStepDescription": {"comment": "คำหน้า Description"},
+  "back": "ย้อนกลับ",
+  "nextStepDescription": "ต่อไปเว็บไซต์จะสอบถาม วัน-เดือน-ปี ที่คุณคาดว่าน่าจะเป็นเวลาตายของคุณ เพื่อประมาณเวลาที่เหลืออยู่บนโลกใบนี้.",
+  "disclaimer": "โปรแกรมนี้ไม่ใช่โปรแกรมพยากรณ์ ดังนั้นเวลาในชีวิตของคุณอาจหมดลงก่อนหรือหลังจากนี้ก็ได้",
+  "next": "ถัดไป",
+  "readyToStartCountdown": "หากคุณพร้อมแล้ว เรามาเริ่มนับเวลาถอยหลังชีวิตได้เลย",
+
+
+
+  "@selectAll": {"comment": "คำหน้า Selection"},
+  "confirm": "ยืนยันข้อมูล",
+  "selectAll": "กรุณาเลือกรายการให้ครบ",
+  "agree": "ตกลง",
+  "pleaseSelectMonth": "กรุณาเลือกเดือนก่อน",
+
+
+  "@deathYearQuestion": {"comment": "คำหน้า DeathYearPage"},
+  "deathYear": "ปีตาย",
+  "deathYearQuestion": "คุณคิดว่าคุณจะตายปีใด?",
+  "yearLabel_lv1": "พ.ศ.",
+  "ageWithYear": "อายุ {ageInThatYear} ปี",
+  
+
+  "@deathMonthTitle": {"comment": "คำหน้า DeathMonthPage"},
+  "deathMonthTitle": "เดือนตาย",
+  "deathMonthQuestion": "คุณคิดว่าคุณจะตายเดือนใด?",
+  
+  
+  "@deathDayTitle": {"comment": "คำหน้า DeathDayPage"},
+  "deathDayTitle": "วันตาย",
+  "deathDayQuestion": "คุณคิดว่าคุณจะตายวันใด?",
+  "sunday": "อา",
+  "monday": "จ",
+  "tuesday": "อ",
+  "wednesday": "พ",
+  "thursday": "พฤ",
+  "friday": "ศ",
+  "saturday": "ส",
+
+  "@deathTimeTitle": {"comment": "คำหน้า DeathTimePage"},
+  "deathTimeTitle": "เวลาตาย",
+  "deathTimeQuestion": "คุณคิดว่าคุณจะตายเวลาใด?",
+  "midnight": "เที่ยงคืน",
+  "threeAM": "ตี 3",
+  "sixAM": "6 โมงเช้า",
+  "nineAM": "9 โมงเช้า",
+  "noon": "เที่ยงวัน",
+  "threePM": "บ่าย 3",
+  "sixPM": "6 โมงเย็น",
+  "ninePM": "3 ทุ่ม",
+  "customTime": "กำหนดเวลาเอง",
+  "customTimeDialogTitle": "กำหนดเวลาเอง",
+  "customTimeDialogHint": "กรุณาป้อนเวลาในรูปแบบ 24 ชั่วโมง (HH:MM)",
+  "cancel": "ยกเลิก",
+  "invalidTimeFormat": "รูปแบบเวลาไม่ถูกต้อง",
+
+
+  
+  "@deathDateTimeMessage": {"comment": "คำหน้า ResultPage"},
+  "deathDateTimeMessage": "คุณกำหนดวัน-เวลาตาย ไว้ที่",
+  "calculateButtonMessage": "กรุณากดปุ่มคำนวณก่อน",
+  "timeLabel": "เวลา",
+  "nextStepMessage": "หน้าถัดไป คือประมาณเวลาชีวิตที่คุณมีเหลืออยู่",
+  "breatheAndPressMessage": "หายใจเข้าลึกๆ แล้วกดดูผลลัพธ์",
+  "viewResults": "ดูผลลัพธ์",
+
+
+  "@appTitle_1": {"comment": "คำหน้า LifeCountdown"},
+  "appTitle_1": "ชีวิตนับถอยหลัง",
+  "timeRemainingTitle": "คุณเหลือเวลาอีก",
+  "timeElapsedTitle": "ผ่านไปแล้ว",
+  "birthTitle": "เกิด",
+  "deathTitle": "ตาย",
+  "saveImage": "บันทึกรูป",
+  "resetButton": "เริ่มใหม่",
+  "dayLabel_1": "วัน",
+  "hourLabel": "ชั่วโมง",
+  "minuteLabel": "นาที",
+  "secondLabel": "วินาที",
+  "closeButtonLabel": "ปิด",
+  "saveImageButtonLabel": "บันทึกรูป",
+  "shareTitle": "แชร์",
+
+  
+  "@created_by": {"comment": "คำหน้า AboutUsPage "},
+  "created_by": "จัดทำโดย",
+    "sponsored_by": "สนับสนุนโดย"
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+  

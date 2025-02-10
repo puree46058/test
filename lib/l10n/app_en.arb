@@ -1,0 +1,137 @@
+
+{
+    "@appTitle": {"comment": "คำในหน้า HOME"},
+    "appTitle": "Life Countdown",
+    "startButton": "Get Started",
+    "aboutUsButton": "About Us",
+    "supportButton": "Support Us",
+    "description": "This app will encourage us to realize that we have limited time in life. Therefore, it is imperative to do important things without negligence before the time runs out.",
+    "languageEnglish": "English",
+    "languageThai": "Thai",
+
+
+    "@selectDateHeader": {"comment": "คำในหน้า Select Date"},
+  "appBarTitle": "Back",
+  "selectDateHeader": "Select Date",
+  "selectDateSubHeader": "When were you born?",
+  "yearLabel": "Year",
+  "monthLabel": "Month",
+  "dayLabel": "Day",
+  "nextButton": "Next",
+  "snackBarMessage": "Selected date: {date}",
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+
+
+ "@nextStepDescription": {"comment": "คำหน้า Description"},
+  "back": "Back",
+  "nextStepDescription": "Next, the website will ask for the day-month-year that you expect to be the time of your death. to estimate the time remaining on this planet.",
+  "disclaimer": "This program is not a forecast program. So the time in your life may run out before or after this.",
+  "next": "Next",
+  "readyToStartCountdown": "Click the 'Next' to countdown your remaining days.",
+
+
+  "@selectAll": {"comment": "คำหน้า Selection"},
+  "confirm": "Confirm",
+  "selectAll": "Please select all items",
+  "agree": "Agree",
+  "pleaseSelectMonth": "Please select a month first",
+
+
+
+
+  "@deathYearQuestion": {"comment": "คำหน้า deathYearPage"},
+  "deathYear": "Death Year",
+  "deathYearQuestion": "What year do you think you will die?",
+  "yearLabel_lv1": "",
+  "ageWithYear": "Age {ageInThatYear} ",
+
+
+  "@deathMonthTitle": {"comment": "คำหน้า DeathMonthPage"},
+  "deathMonthTitle": "Death Month",
+  "deathMonthQuestion": "Which month do you think you will die?",
+
+
+"@deathDayTitle": {"comment": "คำหน้า DeathDayPage"},
+ "deathDayTitle": "Death Day",
+  "deathDayQuestion": "What day do you think you'll die?",
+  "sunday": "Sun",
+  "monday": "Mon",
+  "tuesday": "Tue",
+  "wednesday": "Wed",
+  "thursday": "Thu",
+  "friday": "Fri",
+  "saturday": "Sat",
+
+  "@deathTimeTitle": {"comment": "คำหน้า DeathTimePage"},
+  "deathTimeTitle": "Death Time",
+  "deathTimeQuestion": "What time do you think you'll die?",
+  "midnight": "Midnight",
+  "threeAM": "3 AM",
+  "sixAM": "6 AM",
+  "nineAM": "9 AM",
+  "noon": "Noon",
+  "threePM": "3 PM",
+  "sixPM": "6 PM",
+  "ninePM": "9 PM",
+  "customTime": "Set Custom Time",
+  "customTimeDialogTitle": "Set Custom Time",
+  "customTimeDialogHint": "Please enter time in 24-hour format (HH:MM)",
+  "cancel": "Cancel",
+  "invalidTimeFormat": "Invalid time format",
+
+
+  "@deathDateTimeMessage": {"comment": "คำหน้า ResultPage"},
+  "deathDateTimeMessage": "You have set your death date and time at",
+  "calculateButtonMessage": "Please press the calculate button first",
+  "timeLabel": "Time",
+ "nextStepMessage": "The next page is an estimate of how much time you have left of your life.",
+  "breatheAndPressMessage": "Take a deep breath and see your results.",
+  "viewResults": "View Results",
+
+  "@appTitle_1": {"comment": "คำหน้า LifeCountdown"},
+  "appTitle_1": "Life Countdown",
+  "timeRemainingTitle": "You have remaining time",
+  "timeElapsedTitle": "Passed",
+  "birthTitle": "Born",
+  "deathTitle": "Death",
+  "saveImage": "Save Image",
+  "resetButton": "Reset",
+  "dayLabel_1": "day",
+  "hourLabel": "hour",
+  "minuteLabel": "minute",
+  "secondLabel": "second",
+  "saveImageButtonLabel": "Save Image",
+  "closeButtonLabel": "Close",
+  "shareTitle": "Share",
+
+  "@created_by": {"comment": "คำหน้า AboutUsPage "},
+    "created_by": "Created by",
+      "sponsored_by": "Sponsored by"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+  
