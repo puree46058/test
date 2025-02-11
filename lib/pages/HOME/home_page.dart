@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage>
   Future<void> _launchURL(String url) async {
     final Uri uri = Uri.parse(url);
     if (!await launchUrl(uri, mode: LaunchMode.externalApplication)) {
-      throw Exception('ไม่สามารถเปิดลิงก์: $url');
+      throw Exception('ไม่สามารถเปิดลิงก์ได้: $url');
     }
   }
 
